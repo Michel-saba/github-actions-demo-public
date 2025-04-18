@@ -1,0 +1,6 @@
+name: test action 
+descriptions: demonstarte a public github action
+
+runs:
+  using: 'node20'
+  main: 'index.js'
